@@ -1,7 +1,20 @@
 ﻿// See https://aka.ms/new-console-template for more information
-// add the printing of array and checking the ranges
+void PrintRandom2DArray(int[,] arrayToPrint){
+    for (int i = 0; i < arrayToPrint.GetLength(0); i++) {
+        for (int j = 0; j < arrayToPrint.GetLength(1); j++) {
+            Console.Write($"{arrayToPrint[i, j]} ");
+        }
+        Console.WriteLine();
+    }
+}
+
 void PrintArrayElement(int[,] array, int i, int j){
-    Console.Write($"Элемент массива с индексами {i} и {j}: {array[i, j]}");
+    if ((i < 0) || (j < 0) || (i > array.GetLength(0)) || (j > array.GetLength(1))) {
+        Console.Write("Такого элемента не существует");
+    }    
+     else {
+        Console.Write($"{array[i, j]}");
+     }      
 }
 
 int[,] GenerateRandom2DArray (int m, int n, int minValue, int maxValue) {
@@ -25,4 +38,7 @@ int columns = GetNumberAmount("Введите желаемое количест�
 int[,] resultArray = GenerateRandom2DArray (rows, columns, 0, 9);
 int vertIndex = GetNumberAmount("Введите индекс строки элемента массива: ");
 int horizIndex = GetNumberAmount("Введите индекс столбца элемента массива: ");
+Console.Write($"Элемент с индексами {vertIndex} и {horizIndex}: ");
 PrintArrayElement(resultArray, vertIndex, horizIndex);
+Console.WriteLine();
+PrintRandom2DArray(resultArray);
