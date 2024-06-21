@@ -12,7 +12,7 @@ double[,] GenerateRandom2DArray (int m, int n) {
   double[,] array = new double[m, n];
   for (int i = 0; i < m; i++){
     for (int j = 0; j < n; j++){
-        array[i, j] = new Random().NextDouble();
+        array[i, j] = Math.Round(10.0 * new Random().NextDouble(), 1);
     }
   }
   return array;

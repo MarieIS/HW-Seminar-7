@@ -1,0 +1,15 @@
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\bin\Debug\net7.0\task50.exe
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\bin\Debug\net7.0\task50.deps.json
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\bin\Debug\net7.0\task50.runtimeconfig.json
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\bin\Debug\net7.0\task50.dll
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\bin\Debug\net7.0\task50.pdb
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.csproj.AssemblyReference.cache
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.AssemblyInfoInputs.cache
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.AssemblyInfo.cs
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.csproj.CoreCompileInputs.cache
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.dll
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\refint\task50.dll
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.pdb
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\task50.genruntimeconfig.cache
+C:\!Results\IT HW\C#\Homeworks\seventh\HW-Seminar-7\task50\obj\Debug\net7.0\ref\task50.dll
